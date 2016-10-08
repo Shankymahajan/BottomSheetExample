@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9694d6a6b52411daa90c819c900ab4851d903eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_37b6ed4bdf1fe69851a52f5a90997cdb398c6df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_27d248ca4b649065ab95707e18773461a9f66783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b26966f17421e962442bfc160d54b7c43a25ef31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_40952178a00f72337f01581a01d8cda59c7051c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_7ffb3965c8137d3a89330e98ceab04208dd52fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_51a84695e5bf68332eb165f264977d92196224f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_50f9eee7b72c8fc2fe6d9c3cdf6c73debd971075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_f947fa07dbc5e0b07d7783fc58841da4e7e1551b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de7481b54a71cbb7e8eef2b22c6344eda7fa40bc">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a841e34bd34119aea9192a33a2d2b98857f10c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d0a0f79f4bcdc13684f4f1f0121579f2f89778b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_808826a154b9af3ba817efe99b8b1a78c7f74d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_152c4202433f3543f807be29be86362f58d1ee93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2ebb07efbe092ab897028b4cd8a785ced6294fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="73488e5cbb2a8f4e9df1ad94bd488906f331bf05">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_742df0e2e2a509c343e0122bfb7ee8a3ec61c691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_155139dd9b7e6e09196ab60dcb6e580a37f66c2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4024efc6d9839a2f2362f91798bf7b00827fc9ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ebfe100fbd0e8f6ca8eab774c14d003adabb32f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_35ae4ee12f28f4165bdac6f7beeddabee600e1e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/shashankmahajan/BottomSheetExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a8785458f206615b8c035b5e68e2a7917404ac1c/classes.dex" />
+    </item>
+
+</items>
