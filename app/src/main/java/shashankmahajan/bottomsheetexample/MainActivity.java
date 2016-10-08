@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             public void onStateChanged(@NonNull View bottomSheet, int newState) {
                 //if my new state
                 if (newState == BottomSheetBehavior.STATE_EXPANDED){
-                        textView1.setText("hey babe it's me Shashank");
+                        textView1.setText("hey ! it's me Shashank Mahajan");
                 }else {
                         textView1.setText("Expand Me!");
                 }
